@@ -1,5 +1,3 @@
-# ocac internship project
-
 Libraries to install
 --------------------
 
